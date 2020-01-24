@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://politicalsure.github.io/</id>
     <title>Sure&apos;s Blog</title>
-    <updated>2019-12-09T11:57:05.051Z</updated>
+    <updated>2020-01-24T01:40:59.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://politicalsure.github.io/"/>
     <link rel="self" href="https://politicalsure.github.io//atom.xml"/>
     <subtitle>Self-discipline set me free.</subtitle>
     <logo>https://politicalsure.github.io//images/avatar.png</logo>
     <icon>https://politicalsure.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Sure&apos;s Blog</rights>
+    <rights>All rights reserved 2020, Sure&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[数据库]]></title>
+        <id>https://politicalsure.github.io//post/shu-ju-ku</id>
+        <link href="https://politicalsure.github.io//post/shu-ju-ku">
+        </link>
+        <updated>2020-01-24T01:39:38.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梁启超与中国宪政运动]]></title>
         <id>https://politicalsure.github.io//post/liang-qi-chao-yu-zhong-guo-xian-zheng-yun-dong</id>
