@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://politicalsure.github.io/</id>
     <title>Sure&apos;s Blog</title>
-    <updated>2020-05-15T15:11:46.544Z</updated>
+    <updated>2020-05-15T15:13:49.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://politicalsure.github.io/"/>
     <link rel="self" href="https://politicalsure.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://politicalsure.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sure&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[城市社区生活调查Mini数据库]]></title>
+        <title type="html"><![CDATA[【置顶】城市社区生活调查Mini数据库]]></title>
         <id>https://politicalsure.github.io/post/cheng-shi-she-qu-sheng-huo-diao-cha-mini-shu-ju-ku/</id>
         <link href="https://politicalsure.github.io/post/cheng-shi-she-qu-sheng-huo-diao-cha-mini-shu-ju-ku/">
         </link>
