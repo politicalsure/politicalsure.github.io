@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://politicalsure.github.io/</id>
     <title>Sure&apos;s Blog</title>
-    <updated>2020-05-15T15:08:26.838Z</updated>
+    <updated>2020-05-15T15:11:46.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://politicalsure.github.io/"/>
     <link rel="self" href="https://politicalsure.github.io/atom.xml"/>
@@ -67,17 +67,17 @@
         <updated>2019-10-16T14:52:33.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[最新研究：组织、话语与角色——“饭圈帝吧出征”的行动机制研究]]></title>
+        <id>https://politicalsure.github.io/post/zui-xin-yan-jiu-zu-zhi-hua-yu-yu-jiao-se-fan-quan-di-ba-chu-zheng-de-xing-dong-ji-zhi-yan-jiu/</id>
+        <link href="https://politicalsure.github.io/post/zui-xin-yan-jiu-zu-zhi-hua-yu-yu-jiao-se-fan-quan-di-ba-chu-zheng-de-xing-dong-ji-zhi-yan-jiu/">
+        </link>
+        <updated>2019-09-12T15:08:55.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[最新研究：政策工具视角下我国网络空间安全政策研究——基于2009年-2019年政策文本的Nvivo分析]]></title>
         <id>https://politicalsure.github.io/post/zui-xin-yan-jiu-zheng-ce-gong-ju-shi-jiao-xia-wo-guo-wang-luo-kong-jian-an-quan-zheng-ce-yan-jiu-ji-yu-2009-nian-2019-nian-zheng-ce-wen-ben-de-nvivo-fen-xi/</id>
         <link href="https://politicalsure.github.io/post/zui-xin-yan-jiu-zheng-ce-gong-ju-shi-jiao-xia-wo-guo-wang-luo-kong-jian-an-quan-zheng-ce-yan-jiu-ji-yu-2009-nian-2019-nian-zheng-ce-wen-ben-de-nvivo-fen-xi/">
         </link>
         <updated>2019-07-14T15:06:46.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新研究：“行政三分”的名与实——深圳市的制度创新为何没有实现]]></title>
-        <id>https://politicalsure.github.io/post/zui-xin-yan-jiu-xing-zheng-san-fen-de-ming-yu-shi-shen-zhen-shi-de-zhi-du-chuang-xin-wei-he-mei-you-shi-xian/</id>
-        <link href="https://politicalsure.github.io/post/zui-xin-yan-jiu-xing-zheng-san-fen-de-ming-yu-shi-shen-zhen-shi-de-zhi-du-chuang-xin-wei-he-mei-you-shi-xian/">
-        </link>
-        <updated>2019-07-11T15:03:31.000Z</updated>
     </entry>
 </feed>
