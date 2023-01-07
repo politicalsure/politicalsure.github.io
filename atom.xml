@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>politicalsure.github.io</id>
+    <title>Shuo Wang</title>
+    <updated>2023-01-07T02:13:10.282Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="politicalsure.github.io"/>
+    <link rel="self" href="politicalsure.github.io/atom.xml"/>
+    <subtitle>I am a PhD student at the Department of Sociology, Tsinghua University, China. My research focuses on public understanding of science, research ethics, the politics of science and computational social science. in June 2021, I received my B.A. in Political Science from Southeast University in China.</subtitle>
+    <rights>All rights reserved 2023, Shuo Wang</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://politicalsure.github.io/ce-shi</id>
+        <link href="https://politicalsure.github.io/ce-shi"/>
+        <updated>2023-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[测试
+]]></summary>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
+</feed>
